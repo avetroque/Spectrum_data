@@ -36,8 +36,9 @@ final_df3 (got jupyter nb. use this)
 	-tried to change it into a binary classification - combined the distinction and 	good into 1, pass and fail into 0; And i managed to obtain highest 86% accuracy… 	should we continue binary classification moving forward?
 
 
-Week 2-write up EDA, PREDICTION. CONCLUSION, SUMMARY
-Week 3-study prediction
-Week 4-write, add analysis of prediction
-Week 5-review, reproof , submission
-
+1. Week 2-write up EDA, PREDICTION. CONCLUSION, SUMMARY
+2. Week 3-study prediction
+3. Week 4-write, add analysis of prediction
+4. Week 5-review, reproof , submission
+ 
+Univaratie analysis done. Next is Bivariate analysis.
