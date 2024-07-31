@@ -42,3 +42,11 @@ final_df3 (got jupyter nb. use this)
 4. Week 5-review, reproof , submission
  
 Univaratie analysis done. Next is Bivariate analysis.
+Correlation for Student_summary 
+
+Results
+Table of prediction of different models and experiments
+	by pass and fail
+	by grades
+Table of hyperparameters setting
+Statistical analysis for dataset 
