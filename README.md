@@ -44,6 +44,11 @@ final_df3 (got jupyter nb. use this)
 Univaratie analysis done. Next is Bivariate analysis.
 Correlation for Student_summary 
 
+
+
+Important:After reading and looking at IEEE datasets and papers on moodle, No need to include prediction. That will be another paper. Sufficient with statistical validation only and really clean the dataset 
+
+-----------------------------------
 Results
 Table of prediction of different models and experiments
 	by pass and fail
@@ -53,3 +58,6 @@ Statistical analysis for dataset
 
 
 Use ChatGPT to verify whether private info still exists in the dataset or not. 
+Whether an information or result is redudant-to be reviewed, discussed and decided by all members
+----------------------------------------------------
+For each course,calculate the total engagement for each userid. Then look at the correlation with the marks 
