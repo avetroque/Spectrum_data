@@ -61,3 +61,6 @@ Use ChatGPT to verify whether private info still exists in the dataset or not.
 Whether an information or result is redudant-to be reviewed, discussed and decided by all members
 ----------------------------------------------------
 For each course,calculate the total engagement for each userid. Then look at the correlation with the marks 
+
+Add data cleaning and preprocessing 
+shapiro-wilk test. 
